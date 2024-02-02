@@ -1,2 +1,3 @@
-# Portifólio Profissinal
-Aqui esta contido os repositórios profeissinais feitos por meio de boot camp ou hackathon
+# Portifólio Profissional
+Aqui está contido os repositórios profissionais feitos por meio de boot camp ou hackathon.
+Atualmente como estudante.
